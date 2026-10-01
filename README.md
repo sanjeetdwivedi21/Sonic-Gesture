@@ -21,7 +21,5 @@ Control your system volume using hand gestures in real time with Python, OpenCV,
 
 ## Installation
 
-Clone the repository:
-
 ```bash
-git clone https://github.com/sanjeetdwivedi21/Sonic-Gesture.git
+pip install -r requirements.txt
